@@ -1,4 +1,4 @@
-sandbox
+Expenses
 =======
 
-Sandbox server.
+For those damned expenses.
